@@ -8,7 +8,7 @@
 #### 로그 추적 결과 :
 [ID]  level 이동 그림,  메소드 위치, level, (예외 발생시) 예외 정보  
 #### (정상 호출)
-<img src="https://i.ibb.co/qsF5D5P/image.png" alt="image" border="0" width="800" height="200">  
+<img src="https://i.ibb.co/qsF5D5P/image.png" alt="image" border="0" width="700" height="200">  
 
 [e3991604]   --> , location : String hello.toy.LogTrace.LogTraceController.tt(), level : 1  
 [e3991604]  |   | --> , location : String hello.toy.LogTrace.TestService.t1(), level : 2  
@@ -20,7 +20,7 @@
 [e3991604]   <-- , location : String hello.toy.LogTrace.LogTraceController.tt(), level : 1  
 
 #### (예외 발생)
-<img src="https://i.ibb.co/0GC2htz/image.png" alt="image" border="0" width="800" height="200">  
+<img src="https://i.ibb.co/0GC2htz/image.png" alt="image" border="0" width="700" height="160">  
 
 [a2339553]   --> , location : String hello.toy.LogTrace.LogTraceController.tt(), level : 1  
 [a2339553]  |   | --> , location : String hello.toy.LogTrace.TestService.t1(), level : 2  
