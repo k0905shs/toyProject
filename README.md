@@ -5,7 +5,7 @@
 #### Spring AOP를 활용해서 만든 Log 추적기호출기  
 #### 각각의 Layer Level을 표현을 구현하기 위해 ThreadLocal을 사용해서 각 Thread마다 쓰레드 지역 변수를 가질 수 있도록 했다.  
 #### 로그 추적 결과 :
-[ID]  level 위치 ,  메소드 위치, level, (예외 발생시) 예외 정보  
+[ID]  level 이동 그림,  메소드 위치, level, (예외 발생시) 예외 정보  
 #### (정상 호출)
 [e3991604]   --> , location : String hello.toy.LogTrace.LogTraceController.tt(), level : 1  
 [e3991604]  |   | --> , location : String hello.toy.LogTrace.TestService.t1(), level : 2  
