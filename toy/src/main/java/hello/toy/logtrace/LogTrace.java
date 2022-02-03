@@ -1,4 +1,4 @@
-package hello.toy.LogTrace;
+package hello.toy.logtrace;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
