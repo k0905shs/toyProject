@@ -33,6 +33,6 @@
 
 # 2. SOP vs CORS
 reference :
-  1.해결 방안 https://wonit.tistory.com/572
-  2.CORS https://wonit.tistory.com/307
-  3.SOP https://wonit.tistory.com/571
+  1.해결 방안 https://wonit.tistory.com/572  
+  2.CORS https://wonit.tistory.com/307  
+  3.SOP https://wonit.tistory.com/571  
