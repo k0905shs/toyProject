@@ -29,3 +29,10 @@
 [a2339553]  |   | x-- , location : String hello.toy.LogTrace.TestService.t1(), level : 2, Exception : java.lang.NullPointerException  
 [a2339553]   x-- , location : String hello.toy.LogTrace.LogTraceController.tt(), level : 1, Exception : java.lang.NullPointerException  
 2022-01-26 16:48:16.299 ERROR 18116 --- [nio-8080-exec-9] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+
+
+# 2. SOP vs CORS
+reference :
+  1.해결 방안 https://wonit.tistory.com/572
+  2.CORS https://wonit.tistory.com/307
+  3.SOP https://wonit.tistory.com/571
